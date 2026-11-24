@@ -1,6 +1,6 @@
 # Dealer Portal with an Embedded AI Assistant
 
-[![web](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/web.yml/badge.svg)](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/web.yml) [![mcp-m365](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/mcp-m365.yml/badge.svg)](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/mcp-m365.yml) [![infra](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/infra.yml/badge.svg)](https://github.com/methos237/dealer-portal-ai-assistant/actions/workflows/infra.yml)
+[![web](https://github.com/methos237/dealer-assistant/actions/workflows/web.yml/badge.svg)](https://github.com/methos237/dealer-assistant/actions/workflows/web.yml) [![mcp-m365](https://github.com/methos237/dealer-assistant/actions/workflows/mcp-m365.yml/badge.svg)](https://github.com/methos237/dealer-assistant/actions/workflows/mcp-m365.yml) [![infra](https://github.com/methos237/dealer-assistant/actions/workflows/infra.yml/badge.svg)](https://github.com/methos237/dealer-assistant/actions/workflows/infra.yml)
 
 A B2B dealer portal for an RV manufacturer, with a Claude-powered assistant built into the product rather than bolted on the side.
 
